@@ -1,5 +1,12 @@
 # PRODUTOS
 
+- Livros
+- Telescópios
+- Binóculos
+- Mapas estelares
+- Kit de ciências
+- Planetas decorativos
+
 img0
 
 Telescópio Galileu Refrator
